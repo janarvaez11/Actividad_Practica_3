@@ -1,3 +1,12 @@
+### MUY IMPORTANTE: FUNCIONAMIENTO
+```
+En el presente repositorio no de adjunto la carpeta de modulos 
+pues es demasiado pesada para su carga.
+Se recomienda instalar en el ordenador local dichos modulos.
+```
+
+
+
 # one-way-data-binding
 
 ## Project setup
